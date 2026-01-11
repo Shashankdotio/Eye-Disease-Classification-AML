@@ -17,7 +17,7 @@ The four disease classes are:
 - Normal  
 
 Dataset Source (Kaggle):  
-https://www.kaggle.com/datasets/tommyngx/eye-diseases-classification  
+[gunavenkatdoddi/eye-diseases-classification](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
 
 ---
 
