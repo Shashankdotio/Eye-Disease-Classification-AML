@@ -172,4 +172,4 @@ Models load PCA features and run instantly.
 ## 🏁 Final Notes  
 This project demonstrates how combining **deep learning–based feature extraction** with **classical machine learning** can produce strong results in medical image classification.
 
-We thank Prof. Alizadeh for their support!
+We thank Prof. Alizadeh for their support !
